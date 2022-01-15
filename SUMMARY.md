@@ -1,12 +1,14 @@
 # Table of contents..
 
-* [settings](README.md)
+* [앵귤러 가이드](README.md)
 
+## setting
+* [Overview](book/setting/overview.md)
 
-## vscode
-* [vscode-key-setting](book/vscode/vscode-key-setting.md)
-* [vscode-extentions](book/vscode/vscode-extentions.md)
-
-## mac
-* [mac-setting](book/mac/mac-setting.md)
-* [terminal-setting](book/mac/terminal-setting.md)
+## app
+* [core](book/app/core/core.md)
+    * [controllers](book/app/core/controllers/controllers.md)
+        * [auth_controller.dart](book/app/core/controllers/auth_controller.md)
+        * [offer_status_controller.dart](book/app/core/controllers/offer_status_controller.md)
+    * [utils](book/app/core/utils/utils.md)
+        * [custom](book/app/core/utils/custom_firebase_crashlytics.md)
