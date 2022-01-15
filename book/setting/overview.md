@@ -8,14 +8,13 @@ angular 9
 npm install -g @angular/cli@10
 ```
 
-## 워크스페이스 작성
+## 워크스페이스 생성 및 서버 실행
 ```md
 ng new my-app
 ng serve --open
 ```
 
 ## 폴더 구조
-[GetX Pattern](https://github.com/kauemurakami/getx_pattern#readme)
 ```
 + src
     + app
